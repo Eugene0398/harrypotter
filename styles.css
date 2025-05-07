@@ -14,7 +14,7 @@ body {
   position: relative;
 }
 .overlay {
-  background: url('darkbackground.png') no-repeat center center/cover;
+  background: url('darkbackground.png') ;
   padding: 60px;
   border-radius: 10px;
   color: #fff;
